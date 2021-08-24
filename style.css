@@ -1,0 +1,71 @@
+.contaiener{
+  margin-bottom: 100px;
+}
+
+.logo{
+  width: 150px;
+}
+.sign-in{
+  border: none;
+  background-color: rgb(37, 150, 37);
+  color: white;
+  padding: 5px 20px;
+  border-radius: 20px;
+
+}
+.green{
+  color:green;
+}
+
+h6{
+  color: red;
+}
+
+p{
+  color:darkgray;
+}
+
+h4{
+  color: white;
+}
+
+.first-part{
+  background-color: #f0fff0;
+}
+
+.icon{
+  width: 80px;}
+
+
+  .icon1 {
+  background-color: #f0fff0;
+  border-radius: 10px;
+  box-shadow: 10px 10px 30px lightgray;
+  padding: 20px 30px;
+ 
+  
+   
+}
+
+.icon1 img{
+  width: 100px;
+  height: 120px;
+}
+
+ .card{
+   border: none;
+   border-radius: 10px;
+   box-shadow: 10px 10px 30px lightgray;
+ }
+
+ .mark{
+  width: 25px;
+}
+
+.footer{
+  background-color: black;
+}
+
+.tera, .col-md-2{
+  padding: 40px 40px;
+}
